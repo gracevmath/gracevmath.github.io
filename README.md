@@ -1,5 +1,3 @@
-# gracevmath.github.io
-
 # Data Analyst
 
 ### Education
