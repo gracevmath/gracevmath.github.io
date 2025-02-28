@@ -3,9 +3,8 @@
 # Data Analyst
 
 ### Education
-- Mathematics, B.S.
-- University of North Texas
-- GPA: 3.9
+- Mathematics, B.S. from University of North Texas
+    - GPA: 3.9
 
 ### Work Experience
 Finance Intern @ Trinity Wall Street
