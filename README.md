@@ -14,6 +14,7 @@ Finance Intern @ Trinity Wall Street
 
 ### Projects
 - Tableau | Border Crossings
+![Dashboard](/gracevmath/gracevmath.github.io/blob/main/Tableau.jpg)
     - [Data]
     - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/Border%20Crossing%20Data.twb)
 - MATLAB | Substitute Teacher Pool
