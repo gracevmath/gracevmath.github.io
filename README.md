@@ -19,11 +19,11 @@ Finance Intern @ Trinity Wall Street
 - MATLAB | Substitute Teacher Pool
     - [Information & Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/InformationM.pdf)
     - [Code](https://github.com/gracevmath/gracevmath.github.io/blob/main/MATLAB%20project%20code.pdf)
-    - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/modeling%20project.docx)
+    - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/modeling%20project.pdf)
 - R | Walking Analysis
     - [Information](https://github.com/gracevmath/gracevmath.github.io/blob/main/Information.pdf)
     - [Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/WalkData4650.csv)
     - [Code]
-    - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/stats%20final%20project.docx)
+    - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/stats%20final%20project.pdf)
 
 
