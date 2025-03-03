@@ -21,7 +21,16 @@ Finance Intern @ Trinity Wall Street
 
 ### Projects
 - Tableau
+    - [Data]
+    - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/Border%20Crossing%20Data.twb)
 - MATLAB
+    - [Information & Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/InformationM.pdf)
+    - [Code](https://github.com/gracevmath/gracevmath.github.io/blob/main/MATLAB%20project%20code.pdf)
+    - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/modeling%20project.docx)
 - R
+    - [Information](https://github.com/gracevmath/gracevmath.github.io/blob/main/Information.pdf)
+    - [Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/WalkData4650.csv)
+    - [Code]()
+    - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/stats%20final%20project.docx)
 
-[Border Crossing Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/Border%20Crossing%20Data.twb)
+
