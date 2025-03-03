@@ -23,7 +23,7 @@ Finance Intern @ Trinity Wall Street
 - R | Walking Analysis
     - [Information](https://github.com/gracevmath/gracevmath.github.io/blob/main/Information.pdf)
     - [Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/WalkData4650.csv)
-    - [Code]()
+    - [Code]
     - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/stats%20final%20project.docx)
 
 
