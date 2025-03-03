@@ -1,0 +1,72 @@
+
+R version 4.3.2 (2023-10-31) -- "Eye Holes"
+Copyright (C) 2023 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin20 (64-bit)
+
+> walkdata=read.csv("/Users/gracematherne/Documents/WalkData4650.csv")
+> J=nrow(walkdata)
+> I=ncol(walkdata)
+> n=rep(J,I)
+> walks=rep(1:I,n)
+> wvector=unlist(walkdata)
+> mydata=data.frame(wvector,walks=factor(walks))
+> newdata=subset(mydata,walks%in% c(2,3,4))
+> plot(wvector~walks,data=newdata)
+> anova(lm(wvector~walks,data=newdata))
+Analysis of Variance Table
+
+Response: wvector
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+walks      2 0.75284 0.37642  672.01 < 2.2e-16 ***
+Residuals 36 0.02017 0.00056                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> aov_out=aov(wvector~walks,data=newdata)
+> output=TukeyHSD(aov_out, conf.level=0.95)
+> print(output)
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = wvector ~ walks, data = newdata)
+
+$walks
+           diff          lwr         upr     p adj
+3-2  0.30340648  0.280715885  0.32609707 0.0000000
+4-2  0.01819472 -0.004495871  0.04088531 0.1369009
+4-3 -0.28521176 -0.307902347 -0.26252116 0.0000000
+
+> 
+> plot(TukeyHSD(aov_out, conf.level = 0.95))
+> lrdata=walkdata
+> Mr.Teabag=lrdata[[3]]
+> gender=lrdata[[5]]
+> BMI=lrdata[[6]]
+> out=lm(Mr.Teabag~gender+BMI,data=lrdata)
+> summary(out)
+
+Call:
+lm(formula = Mr.Teabag ~ gender + BMI, data = lrdata)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.032312 -0.013699  0.003413  0.007208  0.035670 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  0.170981   0.038727   4.415  0.00130 ** 
+gender      -0.019904   0.012811  -1.554  0.15133    
+BMI          0.007524   0.001601   4.701  0.00084 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02039 on 10 degrees of freedom
+Multiple R-squared:  0.6933,	Adjusted R-squared:  0.632 
+F-statistic:  11.3 on 2 and 10 DF,  p-value: 0.002712
+
+> 
+> residuals=out$residuals
+> plot(Mr.Teabag,residuals)
+> qqnorm(residuals)
+> 
+2025-03-03 13:53:46.303 R[31387:1609651] The class 'NSSavePanel' overrides the method identifier.  This method is implemented by class 'NSWindow'
+> 
