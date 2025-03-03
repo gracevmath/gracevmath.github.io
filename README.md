@@ -21,6 +21,6 @@ Finance Intern @ Trinity Wall Street
 
 ### Projects
 - Tableau
-[Border Crossing Data](/Users/Grace Matherne/Documents/projects/Tableau Project/Border Crossing Data.twb)
+![Border Crossing Data](/Users/gracematherne/Documents/projects/Tableau Project/Border Crossing Data.twb)
 - MATLAB
 - R
