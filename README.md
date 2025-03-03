@@ -24,4 +24,4 @@ Finance Intern @ Trinity Wall Street
 - MATLAB
 - R
 
-![Border Crossing Data](/main/BorderCrossingData.twb)
+[Border Crossing Data](https://github.com/gracevmath/gracevmath.github.io/BorderCrossingData.twb)
