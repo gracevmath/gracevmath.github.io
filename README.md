@@ -22,7 +22,7 @@ I took Border Crossing Data from Data.gov collected from the Bureau of Transport
   
 I took a project prompt from **A First Course in Mathematical Modeling: Third Edition** by Frank R. Giordano, Maurice D. Weir, and William P. Fox. I used the data given and created a program to test and re-test values for sample size using MATLAB. I then wrote up a report that showed the results of each test and my conclusions thereafter. 
 
-![Smooth Graph]()
+![Part C Graph](https://github.com/gracevmath/gracevmath.github.io/blob/main/C.jpg) ![Part D Graph](https://github.com/gracevmath/gracevmath.github.io/blob/main/D.jpg)
     - [Information & Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/InformationM.pdf)
     - [Code](https://github.com/gracevmath/gracevmath.github.io/blob/main/MATLAB%20project%20code.pdf)
     - [Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/modeling%20project.pdf)
