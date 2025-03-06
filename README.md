@@ -31,7 +31,7 @@ I took a project prompt from **A First Course in Mathematical Modeling: Third Ed
 
 I took already cleaned data from a study comparing walking styles and how energy efficient these "silly" walking styles were. I completed a full analysis of this data and looked at a specific character's data compared with other measures included in the data. I then compiled a report stating my findings and including the analyses I completed using R. 
 
-![Residuals Comparison](https://github.com/gracevmath/gracevmath.github.io/blob/main/QQcomp.pdf)
+![Residuals Comparison](https://github.com/gracevmath/gracevmath.github.io/blob/main/QQcompare.jpg)
     - [Information](https://github.com/gracevmath/gracevmath.github.io/blob/main/Information.pdf)
     - [Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/WalkData4650.csv)
     - [Code](https://github.com/gracevmath/gracevmath.github.io/blob/main/WalkDataCode.txt)
