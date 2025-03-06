@@ -1,4 +1,4 @@
-# Data Analyst | Data Scientist
+# Analyst
 
 ### Education
 - Mathematics, B.S. from University of North Texas
