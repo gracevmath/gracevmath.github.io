@@ -19,7 +19,7 @@ Mathematics, B.S. from University of North Texas
 
 I took Border Crossing Data from Data.gov collected from the Bureau of Transportation Statistics. I took this data and created a dashboard on Tableau that shows various dimensions of this data. From this dashboard, conclusions can be seen clearly or used to do further analysis. 
 
-![Dashboard](https://github.com/gracevmath/gracevmath.github.io/blob/main/Tableau.jpg)
+![Dashboard](/assets/img/Tableau.jpg)
 
 [Data](https://catalog.data.gov/dataset/border-crossing-entry-data-683ae)
 
