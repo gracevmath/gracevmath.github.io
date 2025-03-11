@@ -35,7 +35,7 @@ I took a project prompt from **A First Course in Mathematical Modeling: Third Ed
 
 ![Part D Graph](assets/img/D.jpg)
 
-[Information & Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/InformationM.pdf)
+[Information & Data](https://github.com/gracevmath/gracevmath.github.io/blob/main/Informationnn.pdf)
 
 [Code](https://github.com/gracevmath/gracevmath.github.io/blob/main/MATLAB%20project%20code.pdf)
 
