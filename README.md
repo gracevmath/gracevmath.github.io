@@ -23,7 +23,7 @@ I took Border Crossing Data from Data.gov collected from the Bureau of Transport
 
 [Data](https://catalog.data.gov/dataset/border-crossing-entry-data-683ae)
 
-[Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/Border%20Crossing%20Data.twb)
+[Report](https://github.com/gracevmath/gracevmath.github.io/blob/main/Border%20Crossing.pdf)
 
 
 
